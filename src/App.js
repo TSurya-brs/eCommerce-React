@@ -1,10 +1,10 @@
 import "./App.css";
-import FormWizard from "./Form";
+import Ecommerce from "./ecommerce.jsx";
 
 function App() {
   return (
     <div className="App">
-      <FormWizard />
+      <Ecommerce />
     </div>
   );
 }
