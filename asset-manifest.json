@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eCommerce-React/static/css/main.5fbad8c2.css",
+    "main.js": "/eCommerce-React/static/js/main.363874a5.js",
+    "static/js/453.2a82e7ac.chunk.js": "/eCommerce-React/static/js/453.2a82e7ac.chunk.js",
+    "index.html": "/eCommerce-React/index.html",
+    "main.5fbad8c2.css.map": "/eCommerce-React/static/css/main.5fbad8c2.css.map",
+    "main.363874a5.js.map": "/eCommerce-React/static/js/main.363874a5.js.map",
+    "453.2a82e7ac.chunk.js.map": "/eCommerce-React/static/js/453.2a82e7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fbad8c2.css",
+    "static/js/main.363874a5.js"
+  ]
+}
